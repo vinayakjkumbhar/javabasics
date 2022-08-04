@@ -4,8 +4,9 @@ package java_basics;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		//added add number function.
+		
 			System.out.println("This test program for Git testing.");
 			
 			AddNumbers add=new AddNumbers();
